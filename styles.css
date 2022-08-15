@@ -1,0 +1,32 @@
+body {
+	line-height: 36px;
+    font-family: Conv_etelkalight-webfont, sans-serif;
+}
+
+div {
+    padding: 10px;
+}
+
+div.main {
+	min-height:100%;
+    position:relative;
+    text-align:center;
+}
+
+div.title {
+	font-size: 20px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: normal;
+}
+
+div.converter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div.image img {
+    height: 36px;
+    width: 36px;
+}
